@@ -1,0 +1,10 @@
+body
+{
+ font-family: 'Open Sans', sans-serif;
+}
+.nav-tabs > li > a
+{
+	font-weight: 400;
+	color:#234262;
+
+}

@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600italic,700);
+a {
+    outline: none!important;
+}
+a:active
+{
+	outline: none;
+}
+.datepicker
+{
+	z-index: 2000!important;
+}
+.title
+{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color:#071A2C;
+}
+.btn-success
+{
+	background-color: #1E4E1D;
+	border-color:#1E4E1D;
+}
+.btn-primary
+{
+	background-color: #35517F;
+	border-color:#35517F;
+}
+.btn-info
+{
+	background-color: #16789D;
+	border-color:#16789D;
+}
+.label-success
+{
+	background: #2F5F38;
+}
+.label-danger
+{
+	background:#933939;
+}
+.modal-header-danger {
+	color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #385474;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+.modal-header-red
+{
+	color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #753A42;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+
+}
+.modal-header-verde {
+	color:#fff;
+    padding:9px 15px;
+    border-bottom:1px solid #eee;
+    background-color: #418068;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+}
+.btn-danger
+{
+	background: #7B3336;
+	border-color: #7B3336;
+}
+/*botones personalizados*/
+.btn-blue
+{
+	background: #1B6CA0;
+	color:#fff;
+	border-bottom: 0px;
+	border-color:#1B6CA0; 
+}
+	.btn-blue:hover
+	{
+		background: #1E7EBC;
+		color:#fff;
+		border-bottom: 0px;
+		border-color:#1E7EBC; 
+	}
+.btn-green
+{
+	background: #529670;
+	border-color: #529670;
+	color:#fff;
+	border-bottom: 0px;
+}
+	.btn-green:hover
+	{
+		background: #317F54;
+		border-color: #317F54;
+		color:#fff;
+	}
+.btn-red
+{
+	background: #D04E5A;
+	border-color: #D04E5A;
+	color:#fff;
+	border-bottom: 0px;
+}
+	.btn-red:hover
+	{
+		background: #D43846;
+		border-color: #D04E5A;
+		color:#fff;
+	}
+
+.btn-panel
+{
+	padding: 40px;
+}
